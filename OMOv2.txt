@@ -1,0 +1,14 @@
+This is me trying to make my own repository without help.
+
+Okay so I have made a local repository in a new folder OMO 
+which stands for On My Own. 
+
+Now I'm making changes to see if I can have Git track them.
+
+Ok so here's the second change I have made to this document. 
+Thus far I'm doing well.
+
+Okay so I'm going to try and make another change and upload 
+these changes onto the remote repository.
+
+
