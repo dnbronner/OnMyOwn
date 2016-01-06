@@ -11,4 +11,13 @@ Thus far I'm doing well.
 Okay so I'm going to try and make another change and upload 
 these changes onto the remote repository.
 
+Ok so apparently whenever I tried to git push my data from my 
+git init to the remote repository, a warning would appear:
+LF will be replaced by CRLF in git
+
+When you get code from git that was uploaded from a uniz system 
+they will only have a LF (line feed). CRLF stands for carriage 
+return life feed. If you want this warning off, type the 
+following command line in git
+git config core.autocrlf true
 
